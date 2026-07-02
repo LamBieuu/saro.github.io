@@ -39,7 +39,7 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/Chomusuk3_ # change to your Twitter homepage
+    - https://x.com/chomusuk3_ # change to your Twitter homepage
     - https://github.com/LamBieuu # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -161,7 +161,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/Chomusuke"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
